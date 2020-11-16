@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-11-16T17:53:52.723Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="AvpUdn9zuhSfrV_2JZo8" version="13.9.7" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-16T19:40:40.851Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.83 Safari/537.36" etag="9StabUe8nYgXpLuxlWH2" version="13.9.7" type="github">
   <diagram name="Page-1" id="9f46799a-70d6-7492-0946-bef42562c5a5">
     <mxGraphModel dx="1361" dy="725" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -312,6 +312,27 @@
         </mxCell>
         <mxCell id="wAJgxxfG1Gylnoa3M8R5-103" value="External Integrations" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="760" y="100" width="140" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="wAJgxxfG1Gylnoa3M8R5-104" value="&lt;font style=&quot;font-size: 11px&quot;&gt;Analytics&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#262626;fillColor=#6B6B6B;" vertex="1" parent="1">
+          <mxGeometry x="910" y="649.9993548387097" width="80" height="45.54838709677419" as="geometry" />
+        </mxCell>
+        <mxCell id="wAJgxxfG1Gylnoa3M8R5-105" value="CDC" style="endArrow=classic;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="wAJgxxfG1Gylnoa3M8R5-104">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1145" y="635" as="sourcePoint" />
+            <mxPoint x="570" y="540" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1145" y="673" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wAJgxxfG1Gylnoa3M8R5-106" value="" style="endArrow=classic;html=1;exitX=0.978;exitY=0.714;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="wAJgxxfG1Gylnoa3M8R5-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="520" y="590" as="sourcePoint" />
+            <mxPoint x="990" y="673" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1180" y="673" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
